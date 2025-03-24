@@ -3,7 +3,8 @@
 - 🌱 I’m currently doing my masters in computer science 
 - 💞️ I’m looking to collaborate on a projects of web application development that includes new techs like graphQL, Relay, Web3.0, blockchain etc.
 - 📫 How to reach me:
-- email: shreyashah2100@gmail.com
+- school email: sshah5542@sdsu.edu
+- personal email: shreyashah2100@gmail.com
 - phone: (619)343-6341q
 - LinkedIn: linkedin.com/in/sshreya21
 
