@@ -13,6 +13,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
