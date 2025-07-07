@@ -108,9 +108,18 @@ You can click the Preview link to take a look at your changes.
 
 ### 🏆 Hackathons
 
-- **Sharp Healthcare Hackathon** - Finalist 🥈
-- **BDA San Diego GenAI Hackathon** - Healthcare LLM Chatbot 🔬
-- **LPL Financial Portfolio Advisor** - AI-driven stock recommendation (AWS, XGBoost)
+<b> <h3> [Medico Chat-bot: Healthcare Recommendation System](https://github.com/sshreya99/Team-119) <br> </h3></b>
+
+<h4> Tech: Python, Hugging Face Transformers, RAG, GPT-4o, LangChain, LLM routing </h4>
+
+ [BDA Hackathon 2024](https://bigdataforsandiego.github.io/) Finalists 
+
+
+- Problem: Patients struggle to find the right specialists due to language barriers, limited accessibility, and complex medical jargon.
+- Solution: Developed a multilingual AI system using medically fine-tuned LLMs, RAG, and ranking algorithms to match specialists, simplify medical reports, and enhance decision-making.
+- Impact: Improved specialist accessibility by 81%, enhanced recommendation accuracy with 10,000+ patient records, and delivered jargon-free, actionable insights.
+
+ <hr/>
 
 ---
 
