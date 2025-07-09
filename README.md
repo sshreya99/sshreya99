@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=1000&height=70&lines=Hi+There!+I'm+Shreya+%F0%9F%91%8B;Software+Engineer+%7C+Fullstack+Developer+%7C+LLM+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&&color=FF5721&center=true&width=1000&height=70&lines=Hi+There!+I'm+Shreya+%F0%9F%91%8B;Software+Engineer+%7C+Fullstack+Developer+%7C+LLM+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <!---
