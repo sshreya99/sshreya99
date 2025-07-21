@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 - 💼 Previously at Physics Wallah (800K+ users), Spreadd (Web3 & NFT infra), and Adrixus (Agile-based dev)
 - 🤖 Research Assistant: Two-step LLM clustering, RAG pipeline development, Silhouette scoring
 - 🧑‍🏫 Teaching Assistant - Database Management Systems: Led 200+ students through SQL labs and database theory
-- 🌐 Strong in React, Next.js, Node.js, TypeScript, MongoDB, GraphQL, Docker, Kubernetes
+- 🌐 Strong in React, Next.js, Node.js, TypeScript, MongoDB, GraphQL, Docker, Kubernetes, cloud
 - 🛠️ Building developer dashboards, AI assistants, cloud-deployed microservices, and more!
 - 🚨 **Actively seeking full-time software development roles** (Frontend | Fullstack | AI-focused)
     
