@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
 > Full-stack app using Go, MongoDB, and Kubernetes; deployed on AWS with VPCs and API Gateway.
 - Built using AKF Scaling cube, microservices deployed via Docker/K8s, frontend on Heroku
 
-#### 📆 [Office Hours Scheduler](https://github.com/Office-hours-scheduler) 
+#### 📆 [Office Hours Scheduler](https://github.com/Office-Hours-Schedular) 
 > Admin tool to streamline professor-student scheduling
 - Tech: React, Node.js, MongoDB, Azure DevOps, AWS, GCP
 - Result: Reduced scheduling time by 60%
