@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <strong>Full Stack Developer | React & Node.js Expert | Researcher in Gen AI & LLMs</strong><br/>
-  📍 San Jose, California, 95110 🇺🇸 </p>
+  📍 San Jose, California, 95113 🇺🇸 </p>
 
 <p align="center">
   <a href="" target="blank">
